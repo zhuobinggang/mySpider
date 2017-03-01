@@ -25,7 +25,7 @@ public class GetExample {
 
     public static void main(String[] args) throws IOException {
         GetExample example = new GetExample();
-        String response = example.run("https://raw.github.com/square/okhttp/master/README.md");
+        String response = example.run("https://tieba.baidu.com/p/4472374288?pn=1");
         System.out.println(response);
     }
 }
