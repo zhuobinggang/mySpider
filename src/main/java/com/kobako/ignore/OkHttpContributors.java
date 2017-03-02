@@ -1,4 +1,4 @@
-package com.kobako;
+package com.kobako.ignore;
 
 import com.squareup.moshi.JsonAdapter;
 import com.squareup.moshi.Moshi;
